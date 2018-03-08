@@ -1,0 +1,35 @@
+.header {
+    width: 1440px;
+    height: 2412px;
+    background-color: #ffffff;
+}
+.top {
+	display: flex;
+}
+.title {
+	width: 165.7px;
+    height: 47px;
+    font-size: 40px;
+    color:#FF7F50;
+    padding: 6px 400.4px 5px 182.5px;
+}
+.menu-item {
+	display: inline-block;
+	padding: 5px 15.8px 18px 0;
+}
+.img {
+	display: inline-block;
+	position: relative;
+	width: 1154px;
+    height: 488px;
+    justify-content: center;
+    padding: 0 0 0 143px;
+}
+.nuove {
+	display: inline-block;
+	position: absolute;
+	width: 663px;
+    height: 57px;
+    font-size: 48px;
+    padding: 198px 0 8px 65px;
+}
