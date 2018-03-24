@@ -40,3 +40,20 @@
     color: white;
     padding: 0 0 56px 65px;
 }
+.buttons {
+    padding: 0 0 70px 65px;
+}
+.primary {
+    width: 177px;
+    height: 40px;
+    background-color: #ffffff;
+    border: solid 1px #979797;
+    font-size: 16px;
+    text-align: center;
+    color: #e5725e;
+}
+.food {
+     width: 854px;
+     height: 264px;
+     padding: 0 0 0 118px;
+ }
