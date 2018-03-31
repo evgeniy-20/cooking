@@ -152,4 +152,16 @@
     color: #979797;
     padding: 80px 0 16px 142px;
 }
+.buttons-1 {
+    padding: 0 0 156px 142px;
+}
+.altri {
+    width: 177px;
+    height: 40px;
+    background-color: #ffffff;
+    border: solid 1px #979797;
+    font-size: 16px;
+    text-align: center;
+    color: #e5725e;
+}
 
