@@ -53,7 +53,74 @@
     color: #e5725e;
 }
 .food {
-     width: 854px;
-     height: 264px;
-     padding: 0 0 0 118px;
+    background-image: url("img/evgeniy.png");
+    background-repeat: no-repeat;
+    width: 900px;
+    height: 264px;
+    margin: 0 auto;
+    display: flex;
+
  }
+.nostri {
+    width: 205px;
+    height: 38px;
+    font-size: 32px;
+    color: white;
+    padding: 103px 0 6px 24px;
+}
+.social {
+    width: 261px;
+    height: 69px;
+    font-size: 16px;
+    line-height: 1.38;
+    opacity: 0.8;
+    color: white;
+    padding: 0 0 48px 0;
+}
+.evento {
+    background-image: url("img/evento.png");
+    width: 197px;
+    height: 374px;
+    object-fit: contain;
+    padding: 103px 0 0 291px;
+}
+.aria {
+    width: 197px;
+    height: 374px;
+    object-fit: contain;
+    padding: 103px 0 0 62px;
+}
+.mussels {
+    background-image: url("img/rectangle-3-copy.png");
+    width: 197px;
+    height: 373px;
+    object-fit: contain;
+    margin: 103px 0 0 18px;
+}
+.mare {
+    width: 46px;
+    height: 22px;
+    font-size: 16px;
+    opacity: 0.8;
+    line-height: 1.38;
+    text-align: center;
+    color: white;
+    padding: 263px 0 10px 75.5px;
+}
+.frutti {
+    width: 178px;
+    height: 63px;
+    font-size: 18px;
+    opacity: 0.8;
+    text-align: center;
+    color: white;
+    padding: 0 0 0 10px;
+}
+.french-fries {
+    background-image: url("img/rectangle-3.png");
+    width: 197px;
+    height: 373px;
+    object-fit: contain;
+    margin: 103px 0 0 18px;
+}
+
