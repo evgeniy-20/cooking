@@ -164,4 +164,9 @@
     text-align: center;
     color: #e5725e;
 }
-
+.pink {
+    width: 884px;
+    height: 488px;
+    background-color: #fef9f6;
+    padding: 0 0 80px 193px;
+}
