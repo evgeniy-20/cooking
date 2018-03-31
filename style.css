@@ -114,7 +114,7 @@
     opacity: 0.8;
     text-align: center;
     color: white;
-    padding: 0 0 0 10px;
+    padding: 0 0 16px 10px;
 }
 .french-fries {
     background-image: url("img/rectangle-3.png");
@@ -122,5 +122,24 @@
     height: 373px;
     object-fit: contain;
     margin: 103px 0 0 18px;
+}
+.kitchen {
+    width: 151px;
+    height: 22px;
+    font-size: 16px;
+    line-height: 1.38;
+    text-align: center;
+    opacity: 0.8;
+    color: white;
+    padding: 263px 0 10px 23px;
+}
+.evento {
+    width: 178px;
+    height: 63px;
+    font-size: 18px;
+    text-align: center;
+    opacity: 0.8;
+    color: white;
+    padding: 0 0 16px 10px;
 }
 
