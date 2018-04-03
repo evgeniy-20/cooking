@@ -24,7 +24,7 @@
     background-size: cover;
     width: 1154px;
     height: 488px;
-    margin: 0 auto;
+    margin: 5px 0 0 143px;
 }
 .nuove {
     width: 663px;
@@ -153,7 +153,7 @@
     padding: 80px 0 16px 142px;
 }
 .buttons-1 {
-    padding: 0 0 156px 142px;
+    padding: 0 0 0 142px;
 }
 .altri {
     width: 177px;
@@ -167,6 +167,14 @@
 .pink {
     width: 884px;
     height: 488px;
-    background-color: #fef9f6;
-    padding: 0 0 80px 193px;
+    background-color: #FFDAB9;
+    margin: 145px 0 0 143px;
+}
+.coste {
+    width: 145px;
+    height: 22px;
+    font-size: 16px;
+    line-height: 1.38;
+    color: #e5725e;
+    margin: 77px 0 8px 122px;
 }
