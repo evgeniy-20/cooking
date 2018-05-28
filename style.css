@@ -1,6 +1,6 @@
 .header {
     width: 1440px;
-    height: 2412px;
+    height: 58px;
     background-color: #ffffff;
 }
 .top {
@@ -16,4 +16,30 @@
 .menu-item {
     display: inline-block;
     padding: 5px 15.8px 18px 0;
+}
+.img {
+    background-image: url("img/rectangle-copy.png");
+    background-repeat:no-repeat;
+    background-position:center;
+    background-size: cover;
+    width: 1154px;
+    height: 488px;
+    margin: 5px 0 0 143px;
+}
+.nuove {
+    width: 663px;
+    height: 57px;
+    font-size: 48px;
+    color: white;
+    padding: 140px 0 8px 65px;
+}
+.people {
+    width: 691px;
+    height: 37px;
+    font-size: 32px;
+    color: white;
+    padding: 0 0 56px 65px;
+}
+.buttons {
+    padding: 0 0 70px 65px;
 }
