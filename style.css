@@ -115,3 +115,29 @@
     object-fit: contain;
     padding: 103px 0 0 62px;
 }
+.mussels {
+    background-image: url("img/rectangle-3-copy.png");
+    width: 197px;
+    height: 373px;
+    object-fit: contain;
+    margin: 103px 0 0 18px;
+}
+.mare {
+    width: 46px;
+    height: 22px;
+    font-size: 16px;
+    opacity: 0.8;
+    line-height: 1.38;
+    text-align: center;
+    color: white;
+    padding: 263px 0 10px 75.5px;
+}
+.frutti {
+    width: 178px;
+    height: 63px;
+    font-size: 18px;
+    opacity: 0.8;
+    text-align: center;
+    color: white;
+    padding: 0 0 0 10px;
+}
