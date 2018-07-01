@@ -81,31 +81,35 @@
 .food {
     background-image: url("img/evgeniy.png");
     background-repeat:no-repeat;
-    background-position:center;
-    background-size: cover;
     width: 854px;
     height: 264px;
     margin: 0 0 0 118px;
+    display: flex;
 }
 .nostri {
     width: 205px;
     height: 38px;
     font-size: 32px;
     color: white;
-    opacity: 0.8;
     padding: 103px 0 6px 24px;
 }
-.tutti {
+.social {
     width: 261px;
     height: 69px;
     font-size: 16px;
-    font-weight: 300;
     line-height: 1.38;
-    color: white;
     opacity: 0.8;
+    color: white;
     padding: 0 0 48px 0;
 }
 .evento {
+    background-image: url("img/evento.png");
+    width: 197px;
+    height: 374px;
+    object-fit: contain;
+    padding: 103px 0 0 291px;
+}
+.aria {
     width: 197px;
     height: 374px;
     object-fit: contain;
