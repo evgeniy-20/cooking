@@ -203,17 +203,34 @@
     font-size: 16px;
     line-height: 1.38;
     color:#FF7F50;
-    padding: 77px 0 8px 122px;
-}
-.alla {
-    width: 231px;
-    height: 114px;
-    font-size: 32px;
-    padding: 8px 0 16px 122px;
+    padding: 77px 0 8px 125px;
 }
 .brace {
     width: 231px;
     height: 114px;
     font-size: 32px;
-    padding: 0 0 16px 122px;
+    line-height: 0.5;
+    opacity: 0.8;
+    padding: 8px 0 16px 125px;
+}
+.casuali {
+    width: 231px;
+    height: 152px;
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 1.38;
+    opacity: 0.8;
+    padding: 0 0 24px 125px;
+}
+.buttons-2 {
+    padding: 0 0 38px 125px;
+}
+.altri {
+    width: 177px;
+    height: 40px;
+    background-color: #ffffff;
+    border: solid 1px #979797;
+    font-size: 16px;
+    text-align: center;
+    color: #e5725e;
 }
