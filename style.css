@@ -196,6 +196,7 @@
     width: 884px;
     height: 488px;
     background-color: #fef9f6;
+    display: flex;
 }
 .las {
     width: 145px;
@@ -233,4 +234,7 @@
     font-size: 16px;
     text-align: center;
     color: #e5725e;
+}
+.job {
+    padding: 109px 0 35px 56px;
 }
