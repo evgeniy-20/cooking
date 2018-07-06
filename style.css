@@ -238,3 +238,12 @@
 .job {
     padding: 109px 0 35px 56px;
 }
+.potato {
+    background-image: url("img/patate-al-rosmarino.png");
+    background-repeat:no-repeat;
+    width: 398px;
+    height: 265px;
+    object-fit: contain;
+    mix-blend-mode: multiply;
+    padding: 177px 0 46px 48px;
+}
