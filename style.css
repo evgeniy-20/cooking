@@ -281,7 +281,7 @@
     color: black;
 }
 .buttons-3 {
-    padding: 40px 0 191px 0;
+    padding: 40px 0 0 0;
 }
 .altri {
     width: 177px;
@@ -291,5 +291,11 @@
     font-size: 16px;
     text-align: center;
     color: #e5725e;
+}
+.footer {
+    width: 1170px;
+    height: 177px;
+    background-color: #4a4a4a;
+    margin: 0 0 0 138px;
 }
 
