@@ -197,6 +197,7 @@
     height: 488px;
     background-color: #fef9f6;
     display: flex;
+    overflow: visible;
 }
 .las {
     width: 145px;
@@ -241,9 +242,54 @@
 .potato {
     background-image: url("img/patate-al-rosmarino.png");
     background-repeat:no-repeat;
+    overflow: visible;
+    flex-grow: 1;
+    flex-shrink: 0;
     width: 398px;
     height: 265px;
     object-fit: contain;
     mix-blend-mode: multiply;
-    padding: 177px 0 46px 48px;
+    margin: 177px 0 46px 48px;
 }
+.from {
+    display: flex;
+}
+.cok {
+    background-image: url("img/210-e-3-eee-275-c-22-d-813-a-4520-e-1-b-6-b-208-d-chef.png");
+    background-repeat:no-repeat;
+    width: 307px;
+    height: 548px;
+    object-fit: contain;
+    margin: 80px 0 0 193px;
+}
+.tua {
+    font-size: 48px;
+    color:#FF7F50;
+    padding: 222px 0 0 80px;
+}
+.senza {
+    font-size: 32px;
+    padding: 0 0 16px 0;
+    color: black;
+    opacity: 0.8;
+}
+.sulle {
+    font-size: 16px;
+    font-weight: 300;
+    line-height: 0.75;
+    opacity: 0.8;
+    color: black;
+}
+.buttons-3 {
+    padding: 40px 0 191px 0;
+}
+.altri {
+    width: 177px;
+    height: 40px;
+    background-color: #ffffff;
+    border: solid 1px #979797;
+    font-size: 16px;
+    text-align: center;
+    color: #e5725e;
+}
+
