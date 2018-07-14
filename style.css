@@ -333,4 +333,18 @@
     text-align: center;
     color: #e5725e;
 }
+.all {
+    font-size: 12px;
+    line-height: 1.83;
+    padding: 0 0 16px 24px;
+    color: white;
+    opacity: 0.5;
+}
+.rendemarco {
+    font-size: 12px;
+    line-height: 1.83;
+    padding: 54px 0 16px 184px;
+    color: white;
+    opacity: 0.5;
+}
 
