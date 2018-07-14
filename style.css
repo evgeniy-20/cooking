@@ -293,6 +293,9 @@
     color: #e5725e;
 }
 .footer {
+    display: flex;
+}
+.wrapper-3 {
     width: 1170px;
     height: 177px;
     background-color: #4a4a4a;
@@ -304,6 +307,22 @@
     line-height: 0.75;
     opacity: 0.5;
     color: white;
-    padding: 40px 0 46px 24px;
+    padding: 40px 0 0 24px;
+}
+.rights {
+    width: 1122px;
+    height: 22px;
+    font-size: 12px;
+    line-height: 1.83;
+    color: white;
+    opacity: 0.5;
+    padding: 46px 0 16px 24px;
+}
+.box {
+    width: 317px;
+    height: 40px;
+    border: solid 1px #979797;
+    padding: 47px 0 0 0;
+
 }
 
